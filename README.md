@@ -7,7 +7,7 @@
 ### 2. Instalar dependencias
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### 3. Lanzar postgres
